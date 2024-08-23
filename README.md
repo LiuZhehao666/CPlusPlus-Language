@@ -1,2 +1,2 @@
 # CPlusPlus-Language
-学习C语言和C++语言过程中所写的代码
+在B站上讲C/C++课程中所写的代码
